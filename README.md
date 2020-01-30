@@ -16,7 +16,7 @@ NBA Scoreboard is a sports app for live scores, play-by-plays and detailed stats
 Soon available on the Play store.
 
 
-<a href='https://github.com/ralo50/NBAScoreboard'><img alt='Soon on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+<a href='https://github.com/jonomk07/clonenbaapp'><img alt='Soon on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
 
 ## Joining the Beta
@@ -43,7 +43,7 @@ The following steps should help you (re)build NBA Scoreboard from the command li
 
 1. Checkout the NBA Scoreboard project source with the command:
 
-        git clone https://github.com/ralo50/NBAScoreboard.git
+         git clone https://github.com/jonomk07/clonenbaapp.git
 
 2. Make sure you have the [Android SDK](https://developer.android.com/sdk/index.html) installed.
 3. Ensure that the following packages are installed from the Android SDK manager:
@@ -72,7 +72,7 @@ Setting up a development environment
 3. From the Quickstart panel, choose "Configure" then "SDK Manager".
 4. In the SDK Tools tab of the SDK Manager, make sure that the "Android Support Repository" is installed, and that the latest "Android SDK build-tools" are installed. Click "OK" to return to the Quickstart panel.
 5. From the Quickstart panel, choose "Checkout from Version Control" then "git".
-6. Paste the URL for the NBA Scoreboard project when prompted (https://github.com/ralo50/NBAScoreboard.git).
+6. Paste the URL for the NBA Scoreboard project when prompted (https://github.com/jonomk07/clonenbaapp.git).
 7. Android studio should detect the presence of a project file and ask you whether to open it. Click "yes".
 9. Default config options should be good enough.
 9. Project initialisation and build should proceed.
@@ -87,4 +87,4 @@ and remain the property of their respective owners.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ralo50/NBAScoreboard/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jonomk07/clonenbaapp//blob/master/LICENSE) file for details.
